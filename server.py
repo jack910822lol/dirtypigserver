@@ -9,7 +9,6 @@ from time import sleep
 import random
 import threading
 import struct
-from requests import request
 
 # creste pig class
 class Pig:
